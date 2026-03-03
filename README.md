@@ -1,9 +1,8 @@
-# ai-product-case-studies
-Outcomes + decision-making + execution under constraint
-
 # AI Product Case Studies
 
 Real-world product leadership in scaling AI systems responsibly.
+Outcomes + decision-making + execution under constraint
+
 
 ---
 
