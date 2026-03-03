@@ -1,0 +1,22 @@
+flowchart LR
+  %% Compounding Knowledge Loop (v1)
+
+  A[Customer Intake] --> B[Scoping Inputs Captured]
+  B --> C[AI Scope Draft]
+
+  C --> D[Ops Review & Edits]
+  D --> E[Scope Approved & Sent]
+
+  E --> F[Work Executed]
+  F --> G[Outcome Signals Captured]
+
+  G --> H[Postmortem + Labeling]
+  H --> I[Template & Prompt Updates]
+  I --> J[Taxonomy & Routing Rules Updated]
+
+  J --> C
+
+  %% Governance + Instrumentation overlays
+  K[(Trust / Governance Checks)] -.-> D
+  L[(Instrumentation Events)] -.-> B
+  L -.-> G
