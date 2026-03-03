@@ -1,17 +1,42 @@
 # AI Product Case Studies
 
-Real-world product leadership in scaling AI systems responsibly.
-Outcomes + decision-making + execution under constraint
+I’ve made my product thinking public.
 
+This repository documents applied product strategy, systems thinking, architecture judgment, instrumentation design, and real-world tradeoff decisions in scaling AI systems without breaking trust.
+
+Each case study includes:
+- The business constraint
+- The architectural decision
+- The tradeoffs considered
+- The execution model
+- The measurable outcomes
 
 ---
 
-## Building Trust Through Better Scoping
+## Case Study: Building Trust Through Better Scoping
 
-83% faster intake.  
-89% scope accuracy.  
-40% increase in project value.
+**Problem:** Revenue growth was constrained by a 3–5 day manual scoping bottleneck tied directly to headcount.
 
-A human-in-the-loop AI system designed to scale revenue without scaling headcount.
+**Decision:** Build a human-in-the-loop AI Scoping Agent instead of hiring 3 additional operations staff.
+
+**Outcome:**
+- 83% reduction in intake time  
+- 89% scope accuracy (up from 70%)  
+- 40% increase in average project value  
+- 100% operations team retention  
+
+The system balanced automation efficiency with trust preservation — infrastructure over labor.
 
 → [Read the full case study](./case-studies/building-trust-through-better-scoping.md)
+
+---
+
+## System Architecture & Workflows
+
+These visuals support the system design behind the case study:
+
+- [Compounding Knowledge Loop](./diagrams/compounding-knowledge-loop.mmd)  
+- Student Onboarding Workflow  
+- AI Scoping System Architecture  
+
+More case studies and workflow patterns will be added.
