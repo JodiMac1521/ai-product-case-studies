@@ -13,7 +13,7 @@ Each case study includes:
 
 ---
 
-## Case Study: Building Trust Through Better Scoping
+## Case Study: Building Capacity Through Better Scoping & AI Workflow
 
 **Problem:** Revenue growth was constrained by a 3–5 day manual scoping bottleneck tied directly to headcount.
 
